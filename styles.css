@@ -1,0 +1,35 @@
+* {
+    font-family: Calibri, Georgia, serif;
+}
+.name {
+    font-size: 36px;
+    color: slateblue;
+        }
+.contact {
+    margin-top: -20px;
+}
+.sections {
+    font-size:24px;
+    color: slateblue;
+    font-weight: bold;
+}
+.job {
+    font-size: 20px;
+    margin: -10px 0px -10px 0px;
+    }
+.job2 {
+    font-size: 18px;
+    margin-bottom: -10px;
+}
+.company {
+    font-size: 16px;
+    margin-bottom: -15px;    
+}
+.education {
+    margin-bottom: -10px;
+    font-weight: bold;
+}
+.date {
+    font-weight: normal;
+}
+
