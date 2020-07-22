@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+    background:linear-gradient(black, gray);
+    background-image: url(https://cutewallpaper.org/21/hd-gif-wallpapers/Synthwave-GIFs-Get-the-best-GIF-on-GIPHY.gif);
+    background-size: 1000px 1000px;
+    background-position: center;
+  background-repeat: no-repeat;
+    }
+.name {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-fill-color: black;
+    -webkit-text-stroke-color: white;
+}
+.harold {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
